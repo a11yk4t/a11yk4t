@@ -1,4 +1,4 @@
-### Hi there 👋
+![](http://i.imgur.com/OUkLi.gif)
 
 <!--
 **a11yk4t/a11yk4t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

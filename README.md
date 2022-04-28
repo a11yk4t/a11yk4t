@@ -1,5 +1,6 @@
 ![](https://i.imgur.com/VEOJFz0.png)
-![](http://i.imgur.com/OUkLi.gif)
+
+Hello I program sometimes but it's never good enough 😔
 
 <!--
 **a11yk4t/a11yk4t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
